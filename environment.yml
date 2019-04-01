@@ -1,0 +1,14 @@
+name: capstone
+channels:
+    - https://conda.anaconda.org/menpo
+    - conda-forge
+dependencies:
+    - python==3.6.3
+    - numpy
+    - matplotlib
+    - jupyter
+    - scikit-learn
+    - scikit-image
+    - scipy
+    - seaborn
+    - pandas
